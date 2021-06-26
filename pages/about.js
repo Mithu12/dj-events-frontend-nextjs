@@ -1,6 +1,6 @@
-import Layout from "../components/Layout";
+import Layout from "@/components/Layout";
 
-const About = (props) => {
+const About = () => {
     return (
         <Layout title="about dj">
             about page
