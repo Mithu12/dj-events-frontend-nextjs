@@ -1,10 +1,10 @@
-import React from 'react';
+import Layout from "../components/Layout";
 
 const About = (props) => {
     return (
-        <div>
+        <Layout title="about dj">
             about page
-        </div>
+        </Layout>
     )
 };
 

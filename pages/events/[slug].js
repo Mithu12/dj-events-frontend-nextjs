@@ -1,10 +1,11 @@
 import React from 'react';
+import Layout from "../../components/Layout";
 
-const SingleEventsDetails = (props) => {
+const SingleEventsDetails = () => {
     return (
-        <div>
+        <Layout>
             Single Events Details
-        </div>
+        </Layout>
     )
 };
 
